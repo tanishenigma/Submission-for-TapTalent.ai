@@ -46,7 +46,7 @@ export default function TimeChart({ cityId }) {
     if (cityId) {
       loadWeatherData();
     }
-  }, [cityId, unit]);
+  }, [cityId, unit, convertTemp]);
 
   if (loading) {
     return (
