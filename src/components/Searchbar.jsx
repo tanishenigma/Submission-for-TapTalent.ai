@@ -34,7 +34,6 @@ const Search = () => {
     setResults([]);
 
     try {
-      // Fetch full weather data using city ID
       const fetchData = (await import("../api/fetchCurrent")).default;
       const weatherData = await fetchData(city.id);
 
