@@ -1,8 +1,16 @@
+    
+
 # Weather Analytics
 
 Lightweight React app that shows current weather and simple trends (temperature, precipitation, wind) using OpenWeatherMap and Firebase auth.
 
 - Live demo: https://submission-for-tap-talent-ai.vercel.app/
+
+Below are all images from the assets folder.
+
+![Screenshot 1](./src/assets/ss1.png)
+![Screenshot 2](./src/assets/ss2.png)
+![Screenshot 3](./src/assets/ss3.png)
 
 ## Features
 
